@@ -49,7 +49,10 @@ There is also a unique culture of enjoying Omoto planted in "Nishiki-bachi"—po
 さらに、「錦鉢（にしきばち）」という繊細な絵付けが施された鉢に万年青を植えて楽しむ文化もあります。
 植物と鉢が一体となることで、その美しさは完成されます。
 
+万年青 瑞泉(Zuisen)
 ![Omoto plant Zuisen 瑞泉](assets/omoto_zuisen.jpg)
+
+万年青 聖雲殿(Seiunden)
 ![Omoto plant Seiunden 聖雲殿](assets/omoto_seiunden.jpg)
 
 ## License
