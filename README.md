@@ -4,6 +4,9 @@ Vim and Neovim color scheme inspired by Omoto ( *Rohdea* *japonica* 万年青), 
 
 日本の伝統園芸植物である万年青( *Rohdea* *japonica* )にインスパイアされたVimおよびNeovim用のカラースキームです。
 
+Screenshot
+![Screenshot](assets/omoto_screenshot.jpg)
+
 ## Installation
 
 ### vim-plug
